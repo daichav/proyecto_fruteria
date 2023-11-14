@@ -1,0 +1,12 @@
+lang = es // español
+meta charset = "utf-8" // quiere decir que se puede utiizar la ñ y caracteres sin que tengas error
+alt  sirve para dos cosas = accesibilidad y para indexacion de google para los robots de google
+
+css fichero externo, 
+
+un link interno
+<style></style>
+etiquetas pueden tener su estilo personalizado
+
+<h1 style= >
+cuanto mas concreto sea 
