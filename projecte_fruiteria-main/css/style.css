@@ -1,5 +1,11 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
 .container{
-    width: 1000px;
+    max-width: 900px;
     margin: 0 auto;
 }
 h1 {
@@ -25,8 +31,18 @@ p#subtitulo  {
 #frutas {
     display: flex;
     justify-content: space-around;
+    align-items: center;
     text-align: center  ;
+    /* flex-wrap: wrap; */
 }
 .imagen {
-    width: 95%;
+    width: 60%;
+}
+.parcialCompra {
+    text-align: end;
+
+}
+#finalCompra {
+    text-align: end;
+    font-weight: bold;
 }
